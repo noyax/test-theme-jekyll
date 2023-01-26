@@ -1,22 +1,2 @@
 theme: The Leap day theme
 remote_theme: pages-themes/leap-day@v0.2.0
-langs: [fr_FR]
-baseurl: "/"
-sass:
-  sass_dir: assets/css
-  style: compressed
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-highlighter: rouge
-plugins:
-- jekyll-remote-theme
-- jekyll-paginate
-- jekyll-seo-tag
-exclude:
-- vendor
-title: "Documentation NextDom"
-description: "Ceci est la documentation du plugin de la team NextDom"
-author: "NextDom"
-image: https://avatars1.githubusercontent.com/u/36200380?s=200&v=4
