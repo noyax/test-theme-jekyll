@@ -1,14 +1,10 @@
 remote_theme: pages-themes/leap-day@v0.2.0
-plugins:
-- jekyll-remote-theme
-- jekyll-seo-tag
-langs: [fr_FR,en_US,es_ES]
+langs: [fr_FR]
 baseurl: "/"
 sass:
   sass_dir: assets/css
   style: compressed
 markdown: kramdown
-permalink: /404.html
 kramdown:
   input: GFM
   hard_wrap: false
