@@ -12,11 +12,9 @@ kramdown:
 highlighter: rouge
 plugins:
 - jekyll-remote-theme
-- jekyll-paginate
-- jekyll-seo-tag
 exclude:
 - vendor
-title: "Documentation NextDom"
-description: "Ceci est la documentation du plugin de la team NextDom"
-author: "NextDom"
-image: https://avatars1.githubusercontent.com/u/36200380?s=200&v=4
+title: "Documentation Pluigin Téléinfo"
+description: "Ceci est la documentation du plugin Téléinfo"
+author: "Ticed35 puis Noyax"
+
