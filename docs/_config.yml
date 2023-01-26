@@ -11,6 +11,7 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 plugins:
+- jekyll-remote-theme
 - jekyll-paginate
 - jekyll-seo-tag
 exclude:
