@@ -1,3 +1,28 @@
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+- jekyll-seo-tag
+langs: [fr_FR,en_US,es_ES]
+baseurl: "/"
+sass:
+  sass_dir: assets/css
+  style: compressed
+markdown: kramdown
+permalink: /404.html
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+- jekyll-paginate
+- jekyll-seo-tag
+exclude:
+- vendor
+title: "Documentation NextDom"
+description: "Ceci est la documentation du plugin de la team NextDom"
+author: "NextDom"
+image: https://avatars1.githubusercontent.com/u/36200380?s=200&v=4
+social:
+  name: NextDom
+  links:
+    - https://github.com/NextDom
