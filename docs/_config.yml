@@ -1,3 +1,4 @@
+theme: The Leap day theme
 remote_theme: pages-themes/leap-day@v0.2.0
 langs: [fr_FR]
 baseurl: "/"
