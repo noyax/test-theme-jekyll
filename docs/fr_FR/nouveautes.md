@@ -8,8 +8,8 @@
 une fois le plugin installé Jeedom vous propose d'aller dans le panneau de configuration:
 <br>
 
-<a href="../../images/teleinfo_config01.png">
-<img src="../../images/teleinfo_config01.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_config01.png">
+<img src="../images/teleinfo_config01.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br><br><br><br>
 
@@ -17,8 +17,8 @@ une fois le plugin installé Jeedom vous propose d'aller dans le panneau de conf
 # configuration:
 <br>
 
-<a href="../../images/teleinfo_config02.png">
-<img src="../../images/teleinfo_config02.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_config02.png">
+<img src="../images/teleinfo_config02.png" alt="configuration" style="width:600px;"/>
 </a>
 <br><br><br><br><br><br><br>
 
@@ -45,8 +45,8 @@ Cette option n'est à décocher que si c'est votre première utilisation du plug
 Cliquer sur le + permet d'afficher les paramètres de configuration du modem
 <br>
 
-<a href="../../images/teleinfo_config03.png">
-<img src="../../images/teleinfo_config03.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_config03.png">
+<img src="../images/teleinfo_config03.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br><br><br>
 
@@ -67,16 +67,16 @@ Si vous avez un mode standard la vitesse doit être fixée à 9600
 # Le Panel:
 <br><br>
 
-<a href="../../images/teleinformation_panel0.png">
-<img src="../../images/teleinformation_panel0.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinformation_panel0.png">
+<img src="../images/teleinformation_panel0.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br><br><br>
 
 Cocher cette case pour permettre l'affichage du panel que vous pourrez afficher via le menu:
 <br><br><br>
 
-<a href="../../images/teleinformation_panel1.png">
-<img src="../../images/teleinformation_panel1.png" alt="configuration" style="width:400px;"/>
+<a href="../images/teleinformation_panel1.png">
+<img src="../images/teleinformation_panel1.png" alt="configuration" style="width:400px;"/>
 <a>
 <br><br>
 
@@ -87,8 +87,8 @@ Le panel en lui même sera vu plus loin dans cette doc
 # Options:
 <br>
 
-<a href="../../images/teleinfo_options.png">
-<img src="../../images/teleinfo_options.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_options.png">
+<img src="../images/teleinfo_options.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br>
 
@@ -131,8 +131,8 @@ Sert à indiquer le tarif appliqué pour chaque index cité avant
 Si des trames TIC sont reçues par le plugin et que l'option de création automatique de nouveau compteur n'est pas bloquée alors celui ci va créer un nouveau compteur:
 <br><br>
 
-<a href="../../images/teleinfo_compteur02.png">
-<img src="../../images/teleinfo_compteur02.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_compteur02.png">
+<img src="../images/teleinfo_compteur02.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br>
 
@@ -141,8 +141,8 @@ En cliquant dessus vous rentrez dans l'équipement
 
 # L'équipement 1/2:
 <br>
-<a href="../../images/teleinfo_equipement01.png">
-<img src="../../images/teleinfo_equipement01.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_equipement01.png">
+<img src="../images/teleinfo_equipement01.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br>
 
@@ -185,8 +185,8 @@ Permet de suivre jusqu'à 10 index dans le panel paramètrables indépendamment 
 L'écran sur lequel on arrive en cliquant sur ce bouton sert à montrer l'utilisation en base de données des différentes commandes et à en assurer la maintenance (lissage des données).
 <br><br>
 
-<a href="../../images/teleinfo_maintenance.png">
-<img src="../../images/teleinfo_maintenance.png" alt="configuration" style="width:800px;"/>
+<a href="../images/teleinfo_maintenance.png">
+<img src="../images/teleinfo_maintenance.png" alt="configuration" style="width:800px;"/>
 <a>
 
 ### (1) Regénérer les stats mensuelles
@@ -236,8 +236,8 @@ L'action de ce bouton dépend de:
 # L'équipement 2/2:
 <br>
 
-<a href="../../images/teleinfo_equipement02.png">
-<img src="../../images/teleinfo_equipement02.png" alt="configuration" style="width:800px;"/>
+<a href="../images/teleinfo_equipement02.png">
+<img src="../images/teleinfo_equipement02.png" alt="configuration" style="width:800px;"/>
 <a>
 
 <br><br>
@@ -257,8 +257,8 @@ Ce sont ces libellés qui vont servir de nom pour l'affichage des statistiques e
 ## (2) Les champs de téléinformation
 <br>
 
-<a href="../../images/teleinfo_equipement03.png">
-<img src="../../images/teleinfo_equipement03.png" alt="configuration" style="width:200px;"/>
+<a href="../images/teleinfo_equipement03.png">
+<img src="../images/teleinfo_equipement03.png" alt="configuration" style="width:200px;"/>
 <a>
 <br><br>
 
@@ -266,11 +266,11 @@ Liste de choix proposant de choisir en fonction de votre mode du TIC:
 1. **historique**: "HCHC" ou "HCHP" ou ... 
 2. **standard**: "EASF01" ou "EASF02" ou ...
 
-Ces choix devront être fait en fonction de votre abonnement. Pour vous aider vous pouvez vous reporter à la documentation Enedis [Enedis-NOI-CPT_54E.pdf](../../images/Enedis-NOI-CPT_54E.pdf) ou vous appuyer sur le tableau ci dessous:
+Ces choix devront être fait en fonction de votre abonnement. Pour vous aider vous pouvez vous reporter à la documentation Enedis [Enedis-NOI-CPT_54E.pdf](../images/Enedis-NOI-CPT_54E.pdf) ou vous appuyer sur le tableau ci dessous:
 
 <br>
-<a href="../../images/teleinformation_liste_index.png">
-<img src="../../images/teleinformation_liste_index.png" alt="configuration" style="width:400px;"/>
+<a href="../images/teleinformation_liste_index.png">
+<img src="../images/teleinformation_liste_index.png" alt="configuration" style="width:400px;"/>
 <a>
 <br><br>
 
@@ -280,8 +280,8 @@ Ces champs peuvent être mis sur n'importe quel index, l'important pour vous c'e
 Vous pouvez aussi profiter de ces 10 index disponibles pour afficher les évolutions de vos abonnements. Par exemple, vous étiez en abonnement HP/HC et vous venez de passer en Tempo, vous pouvez très bien suivre vos index comme cela:
 <br>
 
-<a href="../../images/teleinfo_equipement04.png">
-<img src="../../images/teleinfo_equipement04.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_equipement04.png">
+<img src="../images/teleinfo_equipement04.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br>
 
@@ -348,8 +348,8 @@ Une fois que vous aurez fini de configurer les 3 premiers points ci-dessus vous 
 # Le panel
 <br><br>
 
-<a href="../../images/teleinfo_panel01.png">
-<img src="../../images/teleinfo_panel01.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_panel01.png">
+<img src="../images/teleinfo_panel01.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br>
 
@@ -388,32 +388,32 @@ Voici les courbes que vous pourrez avoir:
 **Instantanées:**
 <br><br>
 
-<a href="../../images/teleinfo_panel02.png">
-<img src="../../images/teleinfo_panel02.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_panel02.png">
+<img src="../images/teleinfo_panel02.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br>
 
 **Journalières:**
 <br><br>
 
-<a href="../../images/teleinfo_panel03.png">
-<img src="../../images/teleinfo_panel03.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_panel03.png">
+<img src="../images/teleinfo_panel03.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br>
 
 **Mensuelles:**
 <br><br>
 
-<a href="../../images/teleinfo_panel04.png">
-<img src="../../images/teleinfo_panel04.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_panel04.png">
+<img src="../images/teleinfo_panel04.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br>
 
 **Annuelles:**
 <br><br>
 
-<a href="../../images/teleinfo_panel05.png">
-<img src="../../images/teleinfo_panel05.png" alt="configuration" style="width:600px;"/>
+<a href="../images/teleinfo_panel05.png">
+<img src="../images/teleinfo_panel05.png" alt="configuration" style="width:600px;"/>
 <a>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
